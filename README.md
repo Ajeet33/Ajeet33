@@ -8,7 +8,7 @@ building web applications using modern technologies like React, Node.js, and Dja
 - Backend: Node.js, Django  
 - Database: MongoDB, MySQL  
 - Tools: Git, GitHub, VS Code
-🚀 “Learning every day, building something new every week.”
+🚀 “Learning every day, building something new every week and everyday Pracice English.”
   
 <!---
 Ajeet33/Ajeet33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
